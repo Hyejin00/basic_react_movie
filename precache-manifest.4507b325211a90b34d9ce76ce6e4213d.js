@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98d4e55f0173e3e3d3ae1cce422068f7",
+    "revision": "c888fd9e4ff6c8b17419ebf6f0458965",
     "url": "/basic_react_movie/index.html"
   },
   {
