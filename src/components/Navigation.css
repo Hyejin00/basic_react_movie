@@ -1,0 +1,15 @@
+.navigation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 3rem;
+  background-color: white;
+  box-shadow: 0 1px 27px -0.5px rgba(179, 179, 179, 0.568);
+}
+.navigation__home{
+  margin-right: 1rem;
+}
+.navigation__about{
+
+}

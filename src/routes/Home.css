@@ -19,6 +19,7 @@ body,
 .container{
   display: flex;
   height: 100%;
+  width: 100%;
   justify-content: center;
 }
 
@@ -35,13 +36,13 @@ body,
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
-  padding: 3.5rem;
+  padding: 2rem;
   padding-top: 5rem;
-  width: 80%;
+  width: 90%;
 }
 
 .movies .movie{
-  width: 45%;
+  width: 100%;
   background-color: white;
   margin-bottom: 5.7rem;
   display: flex;
@@ -53,4 +54,9 @@ body,
   border-radius: 5px;
   box-shadow: 0 13px 27px -0.5px rgba(50,50,93,0.25);
 }
-
+a{
+  text-decoration: none;
+}
+#potato{
+  display: block;
+}
