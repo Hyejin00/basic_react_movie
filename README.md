@@ -1,6 +1,8 @@
 # Movie App
 영화 정보를 보여주는 웹 사이트.
 
+https://hyejin00.github.io/basic_react_movie/#/
+
 ## 사용 기술
 React, Css
 
